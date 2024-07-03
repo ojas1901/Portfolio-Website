@@ -186,12 +186,13 @@ export const experiences = [
     role: "Software Engineer Intern",
     company: "WelSpot",
     date: "May 2024 - August 2024",
-    desc: "Working on integrating Speech to Text capability in the company's in house chatbot.",
+    desc: "Revamping the loan decision engine using Python and NLP. Leveraged OpenAI and LangChain to build a custom chatbot. Also integrated Speech to Text capability.",
     skills: [
       "AWS",
       "Python",
       "EC2",
-      "NLP"
+      "NLP",
+      "OpenAI APIs"
     ],
     // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
@@ -250,7 +251,7 @@ export const education = [
     school: "University of Mumbai",
     date: "August 2018 - May 2022",
     grade: "8.87 CGPA",
-    desc: "I completed my Bachelors degree in Computer Engineering at",
+    desc: "I completed my Bachelors degree in Computer Engineering at Mumbai University which allowed me to build a solid foundation in CS fundamentals.",
     degree: "Bachelor of Technology (BTech) in Computer Engineering",
   },
   
